@@ -1,0 +1,8 @@
+body {
+    background-image: url('/Users/Austin/Documents/Websites/images/kitchcounter top 2.jpg'); /* Use the correct path to your image */
+    background-size: cover; /* Ensures the image covers the entire screen */
+    background-position: center; /* Centers the background image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    height: 100vh; /* Makes sure it covers the full viewport height */
+    margin: 0; /* Removes default margin */
+}
